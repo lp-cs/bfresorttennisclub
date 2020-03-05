@@ -18,8 +18,8 @@ function App() {
         <br/>
         <Route path="/" exact component={Home} />
         <Route path="/about" component={About} />
-        <Route path="/about" component={Membership} />
-        <Route path="/about" component={Contact} />
+        <Route path="/membership" component={Membership} />
+        <Route path="/contact" component={Contact} />
     </Router>
   );
 }
