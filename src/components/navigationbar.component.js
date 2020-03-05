@@ -15,13 +15,13 @@ export default class Navigationbar extends Component {
               <Link to="/" className="nav-link">Home</Link>
             </li>
             <li className="navbar-item">
-              <Link to="/trainers" className="nav-link">About</Link>
+              <Link to="/about" className="nav-link">About</Link>
             </li>
             <li className="navbar-item">
-              <Link to="/trainers" className="nav-link">Membership</Link>
+              <Link to="/membership" className="nav-link">Membership</Link>
             </li>
             <li className="navbar-item">
-              <Link to="/trainers" className="nav-link">Contact</Link>
+              <Link to="/contact" className="nav-link">Contact</Link>
             </li>
           </Nav>
         </Navbar.Collapse>
