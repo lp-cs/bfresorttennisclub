@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/bfrvtennisclub/static/css/main.5f361e03.chunk.css",
-    "main.js": "/bfrvtennisclub/static/js/main.2f704c92.chunk.js",
-    "main.js.map": "/bfrvtennisclub/static/js/main.2f704c92.chunk.js.map",
+    "main.js": "/bfrvtennisclub/static/js/main.20bb1907.chunk.js",
+    "main.js.map": "/bfrvtennisclub/static/js/main.20bb1907.chunk.js.map",
     "runtime-main.js": "/bfrvtennisclub/static/js/runtime-main.2255928d.js",
     "runtime-main.js.map": "/bfrvtennisclub/static/js/runtime-main.2255928d.js.map",
-    "static/js/2.b8a4805b.chunk.js": "/bfrvtennisclub/static/js/2.b8a4805b.chunk.js",
-    "static/js/2.b8a4805b.chunk.js.map": "/bfrvtennisclub/static/js/2.b8a4805b.chunk.js.map",
+    "static/css/2.de424728.chunk.css": "/bfrvtennisclub/static/css/2.de424728.chunk.css",
+    "static/js/2.4df896c0.chunk.js": "/bfrvtennisclub/static/js/2.4df896c0.chunk.js",
+    "static/js/2.4df896c0.chunk.js.map": "/bfrvtennisclub/static/js/2.4df896c0.chunk.js.map",
     "index.html": "/bfrvtennisclub/index.html",
-    "precache-manifest.70107d7f333622f7616a3429f475c0ef.js": "/bfrvtennisclub/precache-manifest.70107d7f333622f7616a3429f475c0ef.js",
+    "precache-manifest.32aa5c341a81b903834906a54cff7814.js": "/bfrvtennisclub/precache-manifest.32aa5c341a81b903834906a54cff7814.js",
     "service-worker.js": "/bfrvtennisclub/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/bfrvtennisclub/static/css/2.de424728.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/bfrvtennisclub/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b8a4805b.chunk.js.LICENSE.txt": "/bfrvtennisclub/static/js/2.b8a4805b.chunk.js.LICENSE.txt",
+    "static/js/2.4df896c0.chunk.js.LICENSE.txt": "/bfrvtennisclub/static/js/2.4df896c0.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/bfrvtennisclub/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2255928d.js",
-    "static/js/2.b8a4805b.chunk.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.4df896c0.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2f704c92.chunk.js"
+    "static/js/main.20bb1907.chunk.js"
   ]
 }
