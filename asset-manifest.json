@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bfrvtennisclub/static/css/main.5f361e03.chunk.css",
+    "main.js": "/bfrvtennisclub/static/js/main.2f704c92.chunk.js",
+    "main.js.map": "/bfrvtennisclub/static/js/main.2f704c92.chunk.js.map",
+    "runtime-main.js": "/bfrvtennisclub/static/js/runtime-main.2255928d.js",
+    "runtime-main.js.map": "/bfrvtennisclub/static/js/runtime-main.2255928d.js.map",
+    "static/js/2.b8a4805b.chunk.js": "/bfrvtennisclub/static/js/2.b8a4805b.chunk.js",
+    "static/js/2.b8a4805b.chunk.js.map": "/bfrvtennisclub/static/js/2.b8a4805b.chunk.js.map",
+    "index.html": "/bfrvtennisclub/index.html",
+    "precache-manifest.70107d7f333622f7616a3429f475c0ef.js": "/bfrvtennisclub/precache-manifest.70107d7f333622f7616a3429f475c0ef.js",
+    "service-worker.js": "/bfrvtennisclub/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/bfrvtennisclub/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b8a4805b.chunk.js.LICENSE.txt": "/bfrvtennisclub/static/js/2.b8a4805b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bfrvtennisclub/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2255928d.js",
+    "static/js/2.b8a4805b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2f704c92.chunk.js"
+  ]
+}
