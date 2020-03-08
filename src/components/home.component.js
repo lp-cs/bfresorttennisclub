@@ -7,7 +7,7 @@ export default class Home extends Component {
   render() {
     return (
       <div>
-      	<div>
+      	<div className="text-center">
       		<img src={featured_image} className="featured_image" />
       	</div>
       </div>

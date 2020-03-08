@@ -11,7 +11,6 @@ import Membership from "./components/membership.component";
 import Contact from "./components/contact.component";
 
 
-
 function App() {
   return (
     <Router>
