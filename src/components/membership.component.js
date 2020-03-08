@@ -12,7 +12,7 @@ export default class Membership extends Component {
       		<div className="divider-30"></div>
 	      	<div className="row">
 		      	<div className="col-lg-6">
-	      			<img src={membership_image	} className="image" />
+	      			<img src={membership_image} className="image" alt="Members"/>
 		      	</div>
 		      	<div className="col-lg-6">
 			      	<p>

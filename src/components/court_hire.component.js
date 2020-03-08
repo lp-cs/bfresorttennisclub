@@ -11,7 +11,7 @@ export default class Court_Hire extends Component {
       		<div className="divider-30"></div>
 	      	<div className="row">
 		      	<div className="col-lg-6">
-	      			<img src={court_hire_image} className="image" />
+	      			<img src={court_hire_image} className="image" alt="Court View" />
 		      	</div>
 		      	<div className="col-lg-6">
 			      	<p>

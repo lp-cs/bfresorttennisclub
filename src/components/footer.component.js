@@ -9,7 +9,7 @@ export default class Footer extends Component{
         <div className="divider-10"></div>
         <div className="row col-md-12">
         <div className="col-md-3 text-center">
-            <img src={logo} className="footer-logo" />
+            <img src={logo} className="footer-logo" alt="Club Logo"/>
           </div>
           <div className="col-md-3">
             <p>

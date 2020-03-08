@@ -31,7 +31,7 @@ export default class Coaching extends Component {
 		      	</p>
 	      	</div>
 	      	<div className="col-lg-4">
-      			<img src={coaching_image} className="image" />
+      			<img src={coaching_image} className="image" alt="Coach"/>
 	      	</div>
 	      	<div className="col-lg-12">
 		      	<h4>
