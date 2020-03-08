@@ -5,7 +5,7 @@ const Image = data.FeaturedImage;
 export default class Home extends Component {
   render() {
     return (
-      <p>home</p>
+      // <p>home</p>
       <img src="{Image.Image_01}" />
     )
   }
