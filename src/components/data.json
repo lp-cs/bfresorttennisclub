@@ -2,9 +2,5 @@
 	"information": {
 		"company_name": "BF Resort Tennis Club",
 		"company_short_name": "BFRTC"
-	},
-
-	"featured_image": {
-		"image_001": "../../public/featured-image.jpeg"
 	}
 }
