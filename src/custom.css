@@ -7,6 +7,12 @@
   margin-bottom: 180px;
 }
 
+.videoplayer{
+	max-width: 600px;
+	height: 400px;
+	width: 100%;
+}
+
 .footer-logo{
 	max-width: 100px;
 }

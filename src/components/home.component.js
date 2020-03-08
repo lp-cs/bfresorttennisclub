@@ -7,7 +7,7 @@ export default class Home extends Component {
     return (
       <div className="container">
       	<div className="text-center">
-      		<img src={featured_image} className="image" />
+          <iframe className="videoplayer" src="https://www.youtube.com/embed/fGbwVR2mIoE?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       		<div className="divider-30"></div>
       		<h1 className="text-success">BF Resort Tennis Club</h1>
       		<div className="divider-30"></div>
