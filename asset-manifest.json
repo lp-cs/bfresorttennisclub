@@ -1,31 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.da0f7b89.chunk.css",
-    "main.js": "/static/js/main.affc6479.chunk.js",
-    "main.js.map": "/static/js/main.affc6479.chunk.js.map",
+    "main.js": "/static/js/main.27322de0.chunk.js",
+    "main.js.map": "/static/js/main.27322de0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b1de3039.js",
     "runtime-main.js.map": "/static/js/runtime-main.b1de3039.js.map",
     "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.3c1a9ed1.chunk.js": "/static/js/2.3c1a9ed1.chunk.js",
-    "static/js/2.3c1a9ed1.chunk.js.map": "/static/js/2.3c1a9ed1.chunk.js.map",
+    "static/js/2.ff8a4498.chunk.js": "/static/js/2.ff8a4498.chunk.js",
+    "static/js/2.ff8a4498.chunk.js.map": "/static/js/2.ff8a4498.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2a61ec2fdea2a9f887112901590d8aa7.js": "/precache-manifest.2a61ec2fdea2a9f887112901590d8aa7.js",
+    "precache-manifest.39e573a851e1250bf6186c7926d9ecb5.js": "/precache-manifest.39e573a851e1250bf6186c7926d9ecb5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
     "static/css/main.da0f7b89.chunk.css.map": "/static/css/main.da0f7b89.chunk.css.map",
-    "static/js/2.3c1a9ed1.chunk.js.LICENSE.txt": "/static/js/2.3c1a9ed1.chunk.js.LICENSE.txt",
+    "static/js/2.ff8a4498.chunk.js.LICENSE.txt": "/static/js/2.ff8a4498.chunk.js.LICENSE.txt",
     "static/media/coaching.jpeg": "/static/media/coaching.650aa105.jpeg",
-    "static/media/court_hire.jpeg": "/static/media/court_hire.88db6456.jpeg",
-    "static/media/featured-image.jpeg": "/static/media/featured-image.bcd55bbd.jpeg",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/court_hire.jpeg": "/static/media/court_hire.42368abd.jpeg",
     "static/media/logo.png": "/static/media/logo.b0d4d6cf.png",
-    "static/media/membership.jpg": "/static/media/membership.190afe4d.jpg"
+    "static/media/membership.jpg": "/static/media/membership.3a357b25.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b1de3039.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.3c1a9ed1.chunk.js",
+    "static/js/2.ff8a4498.chunk.js",
     "static/css/main.da0f7b89.chunk.css",
-    "static/js/main.affc6479.chunk.js"
+    "static/js/main.27322de0.chunk.js"
   ]
 }
