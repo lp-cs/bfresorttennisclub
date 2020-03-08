@@ -2,7 +2,7 @@
   "name": "bfrvtennisclub",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://www.bfresorttennisclub.com/",
+  "homepage": "http://bfresorttennisclub.com/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
