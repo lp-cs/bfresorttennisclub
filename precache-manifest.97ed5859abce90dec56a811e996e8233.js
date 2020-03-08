@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "064630e062591555973e1908339ead7d",
+    "revision": "50580743092e72c002446ec7f7fc094b",
     "url": "/bfrvtennisclub/index.html"
   },
   {
-    "revision": "26445c2f8d6bc63f6dc1",
+    "revision": "ad610c38a06a108338d2",
     "url": "/bfrvtennisclub/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "8c5137ad7924f0f14519",
+    "revision": "f32cfd07da370f4fd52e",
     "url": "/bfrvtennisclub/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "26445c2f8d6bc63f6dc1",
-    "url": "/bfrvtennisclub/static/js/2.b22d03a7.chunk.js"
+    "revision": "ad610c38a06a108338d2",
+    "url": "/bfrvtennisclub/static/js/2.b089a2f0.chunk.js"
   },
   {
     "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/bfrvtennisclub/static/js/2.b22d03a7.chunk.js.LICENSE.txt"
+    "url": "/bfrvtennisclub/static/js/2.b089a2f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c5137ad7924f0f14519",
-    "url": "/bfrvtennisclub/static/js/main.f68343b5.chunk.js"
+    "revision": "f32cfd07da370f4fd52e",
+    "url": "/bfrvtennisclub/static/js/main.b5a58f5a.chunk.js"
   },
   {
     "revision": "1d7fee2568293ece8583",

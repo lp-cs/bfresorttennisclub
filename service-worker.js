@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bfrvtennisclub/precache-manifest.c403b996227a258a337b14c297fc4abe.js"
+  "/bfrvtennisclub/precache-manifest.97ed5859abce90dec56a811e996e8233.js"
 );
 
 self.addEventListener('message', (event) => {
