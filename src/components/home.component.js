@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import data from "./data"; 
 
-const Image = data.FeaturedImage;
+const image = data.featured_image;
 
 export default class Home extends Component {
   render() {
     return (
       // <p>home</p>
-      <img src="{Image.Image_01}" />
+      <img src="{image.image_001}" />
     )
   }
 }

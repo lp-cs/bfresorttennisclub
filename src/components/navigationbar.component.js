@@ -3,14 +3,14 @@ import { Navbar, NavItem, NavDropdown, MenuItem, Nav } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import data from "./data"; 
 
-const CompanyData = data.Information;
+const company_data = data.information;
 
 export default class Navigationbar extends Component {
 
   render() {
     return (
       <Navbar bg="success" expand="lg" variant="dark">
-        <Navbar.Brand>{CompanyData.CompanyShortName}</Navbar.Brand>
+        <Navbar.Brand>{company_data.company_short_name}</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
