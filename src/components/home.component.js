@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import data from "./data"; 
 
 const Image = data.FeaturedImage;
 
