@@ -8,6 +8,7 @@ export default class Home extends Component {
     return (
       // <p>home</p>
       <img src="{image.image_001}" />
+      <p>{image.image_001}</p>
     )
   }
 }
