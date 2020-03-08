@@ -19,20 +19,19 @@ export default class Membership extends Component {
 			      		BF Resort Tennis Club offers a variety of memberships including:
 			      	</p>
 			      	<ul>
-			      		<li>Adult: $155</li>
-			      		<li>Junior (under 18): $100</li>
-			      		<li>Student (over 18 F/T student): $125</li>
-			      		<li>Midweek: $125</li>
-			      		<li>Pensioner: $110</li>
+			      		<li>Adult: ₱1200</li>
+			      		<li>Junior (under 18): ₱1200</li>
+			      		<li>Senior: ₱1000</li>
 			      	</ul>
 			      	<p>
-			      		All memberships are paid pro-rata from March each year.
+			      		All memberships are paid pro-rata from January each year.
 			      	</p>
 			      	<p>
 						For all membership enquiries<br />
-						contact: Cardo Dalisay<br />
-						Mobile: +63 912 3456 789<br />
-						Facebook:  m.me/bfresorttennisclub<br />
+						contact: Dr. Ed Fernandez <br />
+						mobile: +63 912 3456 789<br />
+						email: drfernandez@tennis.com<br />
+						facebook:  m.me/bfresorttennisclub<br />
 					</p>
 		      	</div>
 		    </div>
