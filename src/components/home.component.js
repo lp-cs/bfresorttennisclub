@@ -7,7 +7,9 @@ export default class Home extends Component {
   render() {
     return (
       <div>
-      	<img src={featured_image} className="featured_image" />
+      	<div>
+      		<img src={featured_image} className="featured_image" />
+      	</div>
       </div>
     )
   }
