@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import data from "./data";
-import featured_image from '../../featured_image.jpeg'
+import featured_image from '../../public/featured_image.jpeg'
 
 
 export default class Home extends Component {
