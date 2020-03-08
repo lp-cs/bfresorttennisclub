@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bfrvtennisclub/static/css/main.5f361e03.chunk.css",
-    "main.js": "/bfrvtennisclub/static/js/main.b5a58f5a.chunk.js",
-    "main.js.map": "/bfrvtennisclub/static/js/main.b5a58f5a.chunk.js.map",
+    "main.js": "/bfrvtennisclub/static/js/main.c3c2dcd0.chunk.js",
+    "main.js.map": "/bfrvtennisclub/static/js/main.c3c2dcd0.chunk.js.map",
     "runtime-main.js": "/bfrvtennisclub/static/js/runtime-main.2255928d.js",
     "runtime-main.js.map": "/bfrvtennisclub/static/js/runtime-main.2255928d.js.map",
     "static/css/2.de424728.chunk.css": "/bfrvtennisclub/static/css/2.de424728.chunk.css",
     "static/js/2.b089a2f0.chunk.js": "/bfrvtennisclub/static/js/2.b089a2f0.chunk.js",
     "static/js/2.b089a2f0.chunk.js.map": "/bfrvtennisclub/static/js/2.b089a2f0.chunk.js.map",
     "index.html": "/bfrvtennisclub/index.html",
-    "precache-manifest.97ed5859abce90dec56a811e996e8233.js": "/bfrvtennisclub/precache-manifest.97ed5859abce90dec56a811e996e8233.js",
+    "precache-manifest.72ff4a3c10e7e4a5cfd3c68fbecee634.js": "/bfrvtennisclub/precache-manifest.72ff4a3c10e7e4a5cfd3c68fbecee634.js",
     "service-worker.js": "/bfrvtennisclub/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/bfrvtennisclub/static/css/2.de424728.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/bfrvtennisclub/static/css/main.5f361e03.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.b089a2f0.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b5a58f5a.chunk.js"
+    "static/js/main.c3c2dcd0.chunk.js"
   ]
 }
