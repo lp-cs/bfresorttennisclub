@@ -1,4 +1,33 @@
-.featured_image{
+.image{
 	width: 100%;
-	max-width: 500px;
+	max-width: 1000px;
+}
+
+.container {
+  margin-bottom: 180px;
+}
+
+.footer-logo{
+	max-width: 100px;
+}
+
+.divider-10{
+	height: 10px;
+}
+
+.divider-30{
+	height: 30px;
+}
+
+.divider-50{
+	height: 50px;
+}
+
+.footer {
+	position: fixed;
+	overflow: scroll;
+	height: 160px;
+	left: 0;
+	bottom: 0;
+	width: 100%;
 }

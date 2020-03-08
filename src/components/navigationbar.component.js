@@ -3,14 +3,12 @@ import { Navbar, NavItem, NavDropdown, MenuItem, Nav } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import data from "./data"; 
 
-const company_data = data.information;
-
 export default class Navigationbar extends Component {
 
   render() {
     return (
       <Navbar bg="success" expand="lg" variant="dark">
-        <Navbar.Brand>{company_data.company_short_name}</Navbar.Brand>
+        <Navbar.Brand>BFRTC</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
@@ -18,13 +16,13 @@ export default class Navigationbar extends Component {
               <Link to="/" className="nav-link">Home</Link>
             </li>
             <li className="navbar-item">
-              <Link to="/about" className="nav-link">About</Link>
-            </li>
-            <li className="navbar-item">
               <Link to="/membership" className="nav-link">Membership</Link>
             </li>
             <li className="navbar-item">
-              <Link to="/contact" className="nav-link">Contact</Link>
+              <Link to="/coaching" className="nav-link">Coaching</Link>
+            </li>
+            <li className="navbar-item">
+              <Link to="/court_hire" className="nav-link">Court Hire</Link>
             </li>
           </Nav>
         </Navbar.Collapse>

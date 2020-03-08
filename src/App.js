@@ -6,21 +6,24 @@ import { BrowserRouter as Router, Route} from "react-router-dom";
 
 import Navigationbar from "./components/navigationbar.component";
 import Home from "./components/home.component";
-import About from "./components/about.component";
 import Membership from "./components/membership.component";
-import Contact from "./components/contact.component";
-
+import Coaching from "./components/coaching.component";
+import Court_Hire from "./components/court_hire.component";
+import Footer from "./components/footer.component";
 
 function App() {
   return (
-    <Router>
-        <Navigationbar />
-        <br/>
-        <Route path="/" exact component={Home} />
-        <Route path="/about" component={About} />
-        <Route path="/membership" component={Membership} />
-        <Route path="/contact" component={Contact} />
-    </Router>
+    <div>
+        <Router className="col-12">
+            <Navigationbar />
+            <br/>
+            <Route path="/" exact component={Home} />
+            <Route path="/membership" component={Membership} />
+            <Route path="/coaching" component={Coaching} />
+            <Route path="/court_hire" component={Court_Hire} />
+            <Footer className="col-12"/>
+        </Router>
+    </div>
   );
 }
 
