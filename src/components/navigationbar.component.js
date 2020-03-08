@@ -3,7 +3,7 @@ import { Navbar, NavItem, NavDropdown, MenuItem, Nav } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import data from "./data"; 
 
-const CompanyData = data;
+const CompanyData = data.Information;
 
 export default class Navigationbar extends Component {
 

@@ -1,9 +1,8 @@
-{
-"CompanyName": "BF Resort Tennis Club",
-"CompanyShortName": "BFRTC ",
-"Home": [
-  "https://github.com/",
-  "https://www.linkedin.com/",
-  "https://www.facebook.com/"
-]  
+"Information": {
+	"CompanyName": "BF Resort Tennis Club",
+	"CompanyShortName": "BFRTC "
+},
+
+"FeaturedImage": {
+	"Image_01": "../../public/featured-image.jpeg"
 }
